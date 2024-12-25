@@ -2,10 +2,10 @@
 export default defineAppConfig({
   docus: {
     title: 'Tardionchain',
-    description: 'Building the first digital tardigrade life form on chain',
+    description: 'Building the first digital tardigrade life form',
     image: 'https://tardionchain.xyz/tardi.png',
     socials: {
-      twitter: 'tardionchain',
+      twitter: 'tardionchainxyz',
       github: 'tardionchain',
     },
     github: {
