@@ -33,14 +33,8 @@ OpenWorm serves as an inspiration and model for Tardionchain in several ways:
 ### 1. Methodological Framework
 - Demonstrates successful organism simulation
 - Provides tested approaches to neural modeling
-- Shows value of open-science collaboration
 
 ### 2. Technical Insights
 - Neural network simulation techniques
 - Behavioral modeling approaches
 - Integration of multiple data sources
-
-### 3. Future Possibilities
-- Potential for cross-project collaboration
-- Shared learning and development
-- Complementary research goals 
