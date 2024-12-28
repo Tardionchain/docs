@@ -31,10 +31,9 @@ The Tardionchain documentation is organized into several main sections, each ser
   - Project milestones
 
 ### 2. OpenWorm
-- [Comparison](/2.openWorm/comparison)
+- [What is Openworm](/2.openWorm/what-is-openworm)
   - OpenWorm vs Tardionchain
   - Shared characteristics
-  - Unique features
 
 ### 3. Technical
 - [API Reference](/3.technical/api-reference)
@@ -54,7 +53,6 @@ The Tardionchain documentation is organized into several main sections, each ser
    - Explore [Work](/1.overview/work)
 
 2. **Developers**
-   - Study [Architecture](/3.technical/architecture)
    - Reference [API Documentation](/3.technical/api-reference)
    - Check [Roadmap](/1.overview/roadmap)
 
