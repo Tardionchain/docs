@@ -37,19 +37,6 @@ While both OpenWorm and Tardionchain focus on simulating simple organisms, they 
    - Survival mechanisms
    - Environmental adaptation
    - Extreme condition responses
-
-## Shared Characteristics
-
-Both projects share important commonalities:
-
-1. **Small Neural Networks**
-   - Manageable complexity
-   - Mappable connections
-   - Observable behaviors
-
-2. **Research Value**
-   - Biological insights
-   - Educational applications
    - Technical innovation
 
 3. **Open Science**
