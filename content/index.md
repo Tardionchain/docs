@@ -17,7 +17,7 @@ The Tardionchain documentation is organized into several main sections, each ser
   - Project goals
   - Tardigrade simulation
   - Research objectives
-- [Work](/1.overview/work)
+- [How it Works?](/1.overview/work)
   - Current state
   - Neural components
   - Implementation details
